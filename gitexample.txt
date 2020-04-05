@@ -1,4 +1,8 @@
 hello world!~
 this  is hanmeimei ~!
 this is Lilei!~
+<<<<<<< HEAD
 this is Maria!
+=======
+this is Kangkang!
+>>>>>>> feature1
